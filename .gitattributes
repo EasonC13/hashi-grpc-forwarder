@@ -1,0 +1,2 @@
+# Preserve upstream notice text verbatim, including upstream whitespace.
+THIRD_PARTY_LICENSES.txt -whitespace

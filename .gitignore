@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+/dist/
+/hashi-grpc-forwarder
+*.log
+/coverage.out
+/TASK.md

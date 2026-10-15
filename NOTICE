@@ -1,0 +1,6 @@
+hashi-grpc-forwarder is an independent, unofficial project.
+It embeds Caddy v2.11.7 (https://github.com/caddyserver/caddy), Copyright 2015 Matthew Holt and The Caddy Authors, licensed under Apache License 2.0.
+It also includes godotenv and other dependencies governed by their respective licenses.
+The repository wrapper is MIT licensed; this does not relicense its dependencies.
+A generated THIRD_PARTY_LICENSES.txt accompanies the binary releases.
+Not affiliated with, endorsed by, or an official distribution of Caddy, Mysten Labs, Sui, or Hashi.
